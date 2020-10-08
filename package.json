@@ -1,0 +1,23 @@
+{
+  "name": "disbots.js",
+  "version": "0.0.1",
+  "description": "Disbots Javascript api wrapper",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CoryBorek/disbots.js.git"
+  },
+  "author": "agentdid127",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CoryBorek/disbots.js/issues"
+  },
+  "homepage": "https://github.com/CoryBorek/disbots.js#readme",
+  "dependencies": {
+    "events": "^3.2.0",
+    "node-fetch": "^2.6.1"
+  }
+}
